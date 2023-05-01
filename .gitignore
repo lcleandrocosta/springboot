@@ -16,9 +16,10 @@ target/
 ### IntelliJ IDEA ###
 .idea
 .mvn
-.HELP.md
-.mvnw.cmd
-.pom.xml
+HELP.md
+mvnw.cmd
+pom.xml
+mvnw
 *.iws
 *.iml
 *.ipr
